@@ -21,8 +21,8 @@
 -  Branching is process to create, list, rename, and delete branches from our repository.
   
    Commands:
-	-  git branch <branch name> 				       		 -> Creates branch 
-	-  git checkout <branch name> 				       		 -> takes us to the branch
+	-  git branch "<branch name>" 				       		 -> Creates branch 
+	-  git checkout "<branch name>" 				       		 -> takes us to the branch
 
 -  Merging is used to merge two branches. 
   
