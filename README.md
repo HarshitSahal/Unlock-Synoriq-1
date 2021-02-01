@@ -5,7 +5,7 @@
    or pull previous saved files to work offline using github.
 
 2. Basic commands in Git
--  git --version							  -> Show version of git installed
+-  'git --version'							  -> Show version of git installed
    git init 								  -> Create a new git repository
    git status 								  -> Displays the state of the working directory
    git add 									  -> Adds a change in the working directory
