@@ -5,17 +5,17 @@
    or pull previous saved files to work offline using github.
 
 *2. Basic commands in Git
--'git --version'							  			     -> Show version of git installed
--'git init' 								  			     -> Create a new git repository
--'git status' 								  			     -> Displays the state of the working directory
--'git add' 												 -> Adds a change in the working directory
--'git commit -m "....." 					  			     -> Used for saving changes with message
--'git config --global user.email "email.id" 			 	 -> Adds an email with repository
--'git config --global user.name "username"  			 	 -> Adds an username with repository
--'git remote add origin <link of repository>			 	 ->  Add a new remote
--'git push -u origin master 				  			     -> Push file to master
--'git log 												 -> Check log of repository
--'git --help 								  			     -> For help
+-  git --version							  			     -> Show version of git installed
+-  git init    								  			     -> Create a new git repository
+-  git status 								  			     -> Displays the state of the working directory
+-  git add  												 -> Adds a change in the working directory
+-  git commit -m "....."   	   		   		  			     -> Used for saving changes with message
+-  git config --global user.email "email.id" 			 	 -> Adds an email with repository
+-  git config --global user.name "username"  			 	 -> Adds an username with repository
+-  git remote add origin <link of repository>			 	 ->  Add a new remote
+-  git push -u origin master 				  			     -> Push file to master
+-  git log 												 -> Check log of repository
+-  git --help 								  			     -> For help
 
 3. Branching and Merging
 -  Branching is process to create, list, rename, and delete branches from our repository.
