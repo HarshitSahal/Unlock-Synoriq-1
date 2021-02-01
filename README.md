@@ -3,9 +3,9 @@
 -  Git is an open-source distributed version contol system which is used to track changes in files & helpful when working in team. Git can be used with github to get remote repository and visual interface to our repositories. Using git we can access our remote repositories online to github. We can work on our poject offline and push file/folder into git or we can clone or pull previous saved files to work offline using github.
 
 ## 2. Basic commands in Git
--  git --version							  			        -> Show version of git installed
--  git init    								  			        -> Create a new git repository
--  git status 								  			        -> Displays the state of the working directory
+-  git --version -> Show version of git installed
+-  git init -> Create a new git repository
+-  git status -> Displays the state of the working directory
 -  git add  											            -> Adds a change in the working directory
 -  git commit -m "....."   	   		   		  		-> Used for saving changes with message
 -  git config --global user.email "email.id"  -> Adds an email with repository
@@ -20,14 +20,14 @@
   
   #### Commands:
 	-  git branch "branch name" 				       		 -> Creates branch 
-	-  git checkout "branch name" 				       	 -> takes us to the branch
+	-  git checkout "branch name" 				       	     -> takes us to the branch
 
 -  Merging is used to merge two branches. 
   
   #### Commands:
 	-  git merge "branch name" 					    		   -> Merge branch to master
-	-  git branch -d "branch name" 				    		 -> Delete branch from local
-	-  git push origin --delete "branch name" 	   -> Delete branch from remote
+	-  git branch -d "branch name" 				    		   -> Delete branch from local
+	-  git push origin --delete "branch name" 	               -> Delete branch from remote
 
 ## 4. Git Tags
 -  Tags are reference that point to specific points in Git history.
